@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sinanpakkada8@gmail.com**
 
-- 📄 Know about my experiences [https://sinan-pakkada.vercel.app/]((https://sinan-pakkada.vercel.app/)
+- 📄 Know about my experience (https://sinan-pakkada.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
