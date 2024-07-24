@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sinanpakkada8@gmail.com**
 
-- 📄 Know about my experiences [https://celebrated-bunny-c27ba8.netlify.app/assets/resume1.pdf](https://celebrated-bunny-c27ba8.netlify.app/assets/resume1.pdf)
+- 📄 Know about my experiences [(https://sinan-pakkada.vercel.app/assets/resume1.pdf](https://celebrated-bunny-c27ba8.netlify.app/assets/resume1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
